@@ -17,3 +17,6 @@ Let's GO
 5. Stay organized: Use project management tools like Trello or Asana to keep track of tasks and deadlines.Organization is key to staying on track and ensuring projects are completed on time.    
 6. Learn from others: Read blogs, watch tutorials,and participate in online forums to learn new skills and best practices.Not only will this make you a better programmer, but it will also help to stay current with industry trends.     
 7. Practice good coding habits: Write clean, well-commented code, follow coding standards, use version controllers, etc. These habits will not only make your life easier as a programmer but willalso contribute to the overall quality of your projects.
+
+# 2023-11-18
+- "Keep it simple, stupid!"
