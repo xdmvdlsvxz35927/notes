@@ -38,3 +38,6 @@ Let's GO
 
 Next, use a scheduling tool or plan to allocate time to each task. Allocating time helps you stay focused and makes sure that each aspect of your task is completed. You can use tools like Trello, Asana, or Google Calendar to schedule your day and keep track of tasks. 
  - 来自帮助助手
+
+# 2023-11-24
+- "Today's programming wisdom is to embrace simplicity and readability in your code. Writing clean, concise, and well-organized code not only makes it easier for others to understand and maintain, but also helps you avoid bugs and errors. Remember, code is read more often than it is written, so always strive to make it easy to read and understand."
