@@ -49,3 +49,6 @@ Remember that programming is not just about writing code; it' s about solving pr
 
 # 2023-11-26
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. By using version control systems like Git, you can keep track of your code and collaborate with others more effectively. Always strive to write clean, readable, modular code that is easy to maintain and update. Practice good programming habits like commenting your codes, using descriptive variable names, organizing your files, following coding standards, etc. These habits will make your life as a programmer much easier and enjoyable. Lastly, always keep learning and updating your skills. The technology is constantly evolving, so it' s crucial to stay ahead of the curve and adapt to new developments.
+
+# 2023-11-27
+- "Programming wisdom for today: Always comment your code! Writing clear and concise comments not only helps you remember why you wrote something a certain way, but also makes it easier for others to understand and contribute to your code. Plus, it's a good practice to document your work as you go along, rather than trying to remember everything later on."
