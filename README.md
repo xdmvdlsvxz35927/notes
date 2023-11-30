@@ -62,3 +62,8 @@ Next, planning ahead is crucial. Before beginning a new project or undertaking a
 
 # 2023-11-29
 - "Today's programming wisdom is to write code that is not only functional but also readable and maintainable. Invest time in naming variables and functions properly, keeping your code organized, and adding comments to explain complex logic. Remember, code is read more often than it is written, so make it easy for others (and your future self) to understand."
+
+# 2023-11-30
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
+
+This quote emphasizes the importance of writing clean, well-structured, and easy-to-understand code. It's not just about making your own life easier, but also considering the people who will have to work with your code in the future. By following best practices and striving for clarity, you can make everyone's job easier and reduce the likelihood of introducing bugs or other issues.
