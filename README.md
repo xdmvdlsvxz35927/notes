@@ -67,3 +67,8 @@ Next, planning ahead is crucial. Before beginning a new project or undertaking a
 - "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
 
 This quote emphasizes the importance of writing clean, well-structured, and easy-to-understand code. It's not just about making your own life easier, but also considering the people who will have to work with your code in the future. By following best practices and striving for clarity, you can make everyone's job easier and reduce the likelihood of introducing bugs or other issues.
+
+# 2023-12-01
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's often better to write clear, simple code first and optimize only where necessary.
