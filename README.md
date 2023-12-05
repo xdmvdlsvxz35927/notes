@@ -83,3 +83,8 @@ Optimizing code before it's necessary can lead to overly complex and difficult-t
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
 
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. You can use a task management tool, such as Trello or Asana, to keep track of tasks and their priorities.
+
+# 2023-12-05
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+Focus on writing clear, correct, and maintainable code first. Optimize only when necessary and after profiling to identify bottlenecks.
