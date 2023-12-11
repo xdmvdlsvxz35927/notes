@@ -103,3 +103,6 @@ Focus on writing clear, correct, and maintainable code first. Optimize only when
 
 # 2023-12-10
 - "Keep it simple, stupid!"
+
+# 2023-12-11
+- Today's programming wisdom is to prioritize writing readable and maintainable code over clever or complex code. It is important to remember that code is read far more often than it is written, and that future developers (including your future self) will thank you for clear and concise code that is easy to understand and modify. Additionally, it is important to embrace debugging as a necessary part of the development process, and to approach it with a mindset of curiosity and problem-solving rather than frustration or blame. Finally, remember that programming is a collaborative effort, and that seeking help and feedback from others can greatly improve the quality and efficiency of your work.
