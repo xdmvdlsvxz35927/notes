@@ -126,3 +126,8 @@ To achieve this, make it a priority to read and study related articles, blogs, b
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure you have a clear idea of what needs to get done and when, allowing you avoid last-minute stress and confusion. 
  <p>
 Finally, staying organized is essential. Use version control systems like Git to keep track of your code and collaborate with others. Keep your workspace clean and clutter-free, with well-organized files and folders. Using tools like task managers, calendars, or lists can help keep you on track and make sure you don't forget anything important. Remember, maintaining organization and structure will save you time and headaches in the long run.
+
+# 2023-12-16
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity and wasted time. It's important to focus on writing clear, correct code first, and only optimize when profiling has identified specific performance bottlenecks.
