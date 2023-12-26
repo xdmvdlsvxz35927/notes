@@ -173,3 +173,6 @@ Next, use a scheduling tool or plan to allocate time to each task. Allocating ti
 
 # 2023-12-25
 - Today's programming wisdom is: "Simplicity is the ultimate sophistication. Complex code may demonstrate your technical prowess, but simple and readable code demonstrates your understanding of the problem and respect for future maintainers. Always strive to write code that is easy to read, understand, and modify. Remember, code is read far more often than it is written."
+
+# 2023-12-26
+- "Keep it simple, stupid!"
