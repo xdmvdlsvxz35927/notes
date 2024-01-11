@@ -260,3 +260,8 @@ Secondly, planning ahead is crucial. Make sure you have a plan in place for your
 
 # 2024-01-10
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use task management tools and versions control systems to keep your code organized and easy to maintain. Remember to take breaks and avoid multitasking, which can lead to decreased efficiency and quality of work
+
+# 2024-01-11
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clear, maintainable code first. Optimize only when necessary and after profiling. Understand that readability counts, as tomorrow's debugging session will be thanks to today's well-structured code." 
+
+In essence, it means don't overcomplicate your code by trying to optimize it too early in the development process. Instead, concentrate on making your code clean, easy to understand, and modular. Only optimize when you have evidence from profiling that a specific part of your code is a performance bottleneck.
